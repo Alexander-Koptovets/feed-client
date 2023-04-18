@@ -1,0 +1,9 @@
+.home {
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 30px 20px;
+}
